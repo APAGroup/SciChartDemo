@@ -1,0 +1,16 @@
+PODS:
+  - SciChart (2.5.0.2468)
+
+DEPENDENCIES:
+  - SciChart
+
+SPEC REPOS:
+  https://github.com/ABTSoftware/PodSpecs.git:
+    - SciChart
+
+SPEC CHECKSUMS:
+  SciChart: fba2c2bb80c089527d744d8340ca530895e53125
+
+PODFILE CHECKSUM: e3dd9ff3645863e2e833d5ec78fb36e5daf51eb6
+
+COCOAPODS: 1.6.1
